@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Vector.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/DS/Chapter2/Vector.py">
+      <file leaf-file-name="SequenceIterator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/DS/Chapter2/SequenceIterator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="36" column="79" lean-forward="false" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
+            <state relative-caret-position="342">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -36,6 +36,7 @@
         <option value="$PROJECT_DIR$/venv/Graphs/TopologicalOrdering.py" />
         <option value="$PROJECT_DIR$/venv/DS/Chapter2/Vectory.py" />
         <option value="$PROJECT_DIR$/venv/DS/Chapter2/Vector.py" />
+        <option value="$PROJECT_DIR$/venv/DS/Chapter2/SequenceIterator.py" />
       </list>
     </option>
   </component>
@@ -193,8 +194,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/DS/Chapter2/Vector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="79" lean-forward="false" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
+        <state relative-caret-position="414">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DS/Chapter2/SequenceIterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
